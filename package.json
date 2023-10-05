@@ -1,0 +1,15 @@
+{
+  "name": "edr-hello-world",
+  "version": "0.0.1",
+  "description": "Test the EDR alpha release",
+  "main": "index.js",
+  "author": "Agost Biro",
+  "license": "MIT",
+  "dependencies": {
+    "@ignored/edr": "^0.1.0-alpha.1",
+    "@nomicfoundation/ethereumjs-util": "^9.0.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
